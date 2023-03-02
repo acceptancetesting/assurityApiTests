@@ -6,7 +6,7 @@ This project is an example of how to use Cucumber and RestAssured to perform API
 
 To get started with this project, clone the repository to your local machine:
 
-GIT Clone https://github.com/your-username/api-testing-with-cucumber-and-restassured.git
+GIT Clone https://github.com/acceptancetesting/assurityApiTests.git
 
 
 ### Prerequisites
@@ -52,7 +52,7 @@ The report will be generated in the `target/cucumber-report/cucumber.html` direc
 
 ## Author
 
-- [Avneesh Rupal](https://github.com/your-username)
+- [Avneesh Rupal](https://github.com/acceptancetesting/assurityApiTests)
 
 
 
